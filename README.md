@@ -1,4 +1,4 @@
-SendToCal
+# SendToCal
 
 Chrome extension to filter HTML tables.
 
